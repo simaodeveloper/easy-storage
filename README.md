@@ -159,7 +159,7 @@ Don't have arguments
 
 ```js
 bag.has('object'); // true
-bag.remove('object');
+bag.clear('object');
 bag.has('object'); // false
 ```
 
